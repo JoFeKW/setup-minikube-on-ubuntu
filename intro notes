@@ -1,0 +1,11 @@
+Used the following documentation: 
+
+https://www.linuxbuzz.com/install-minikube-on-ubuntu/
+
+First I tried to setup minikube on Manjaro but it failed a few times due du different errors. 
+Decided to setup a VM with ubuntu. 
+
+Installed openssh server and connected via SSH into the VM. 
+First I had to install curl after setting up ubuntu and checking the connection. 
+
+Installed docker, minikube, kubectl and was very quickly able to get started with minikube.
